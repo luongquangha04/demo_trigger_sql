@@ -139,12 +139,16 @@ bảng diagram
    nhằm đạt được 1 vài mục tiêu nào đó.
    => Nêu rõ các mục tiêu
 
-tringger em sử dụng để tự động cập nhật soosluowjng tồn trong kho 
+tringger em sử dụng để tự động cập nhật số lượng tồn trong kho 
 viết trigger:
 ![image](https://github.com/user-attachments/assets/6120a4b5-9964-4287-a01e-1abd3382c935)
 
 4 nhập dữ liệu 
 ![image](https://github.com/user-attachments/assets/b607b38c-273a-457f-8356-521447b3359e)
+
+kết quả
+![Uploading image.png…]()
+
 
 5 Trigger giúp tự động cập nhật số lượng tồn kho sau mỗi lần nhập hoặc xuất hàng mà không cần thực hiện thủ công.
 
